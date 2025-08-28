@@ -1,0 +1,78 @@
+# ANNOTATION DOCUMENT OF NON-ASSERTION - MARKDOWN
+
+Copyright [Year]; [Copyright Holder Name]. All Rights Reserved.
+
+## OFFICIAL PLEDGE
+
+The following two sentences, comprising seventeen words, constitute the complete and authoritative Non-assertion.
+
+```
+EVERYONE CAN DO ANYTHING WITH THIS WORK.
+ANY USE IS AT YOUR OWN RISK, IT'S AS IS.
+```
+
+The Annotation Document of Non-Assertion (hereinafter referred to as this Document) provides an explanation of the aforementioned pledge. Both the official pledge and this Document are legally valid and possess equal legal effect. The Annotated Document serves to supplement the official pledge by providing additional legal specificity in situations requiring detailed interpretation.
+
+## PREAMBLE
+
+Non-assertion is a pledge not to enforce copyright for all forms of creative work.
+
+In civil law jurisdictions, it is impossible for a copyright holder to relinquish their moral rights (hereinafter referred to as moral rights) over their own work. However, some individuals may wish to avoid having their name forgotten, or at the very least, to shield users from the legal fear of infringing moral rights. Furthermore, public domain declarations such as CC0 can eliminate the legal basis for the copyright holder to sanction malicious users who falsely assert copyright or commit fraud, thereby potentially threatening the copyright holder themselves or third parties.
+
+Accordingly, Non-assertion aims to permit users freedom of use equivalent to or comparable with the public domain, whilst the copyright holder retains ownership of their work but pledges not to assert their rights. This simultaneously preserves a legal basis for protecting against third-party attempts to falsely claim, usurp, or monopolise copyright, or criminal acts involving the work.
+
+## DEFINITIONS
+
+**Work** means any form of creative work protected under the Copyright Act.
+
+**Copyright holder** refers to a natural person or legal entity who directly created a work or acquired copyright under the Copyright Act.
+
+Expressions such as **everyone** refer to all natural persons or legal entities that have existed, exist, or will exist. In a narrower sense, it refers to all natural persons or legal entities who have acquired this pledge or work.
+
+Expressions such as **anything** refer to all acts concerning the work. This includes the exercise and non-exercise of all rights that the copyright holder may exclusively possess under the Copyright Act.
+
+**As is** refers to the work in its created, unaltered state. This includes any defects, errors, omissions, or unknown issues within the work.
+
+## TERMS AND CONDITIONS
+
+### Article 1 - EVERYONE CAN DO ANYTHING WITH THIS WORK.
+
+The copyright holder universally and publicly pledges not to monopolise any rights over this work that the copyright holder could otherwise monopolise under the Copyright Act, including moral rights, economic rights, neighbouring rights, and database rights. Accordingly, all persons are granted the right to exercise the rights under the Copyright Act unconditionally, for any purpose, and without limitation, without any consideration. This includes, but is not limited to, the rights of publication, attribution, integrity, reproduction, performance, communication to the public, exhibition, distribution, rental, and creation of derivative works.
+
+### Article 2 - ANY USE IS AT YOUR OWN RISK, IT'S AS IS.
+
+This work is provided 'as is' without any kind of express or implied warranty or condition. This includes, but is not limited to, warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose. The work may contain errors, defects, infringements of patents or trademarks, or harmful components, and all risks regarding quality, performance, and use are entirely borne by the user. To the fullest extent permitted by law, the copyright holder shall not be liable for any claims, damages (including direct, indirect, special, incidental, punitive or consequential damages), or other liabilities arising from the use or inability to use this work, whether based on contract, tort (including negligence), strict liability, or any other legal theory.
+
+## VALIDITY
+
+THIS PLEDGE CAN NEVER BE UNRECOGNISED NOR BE VOID ON ANY RATIONAL STATE OR COURT BASED ON ANY LEGAL DOCTRINE, RULE, OR POLICY THAT PROHIBITS OR INVALIDATES THE NON-ASSERTION OF COPYRIGHT. NO CIVILISED LAW COMPELS COPYRIGHT ENFORCEMENT AGAINST THE COPYRIGHT HOLDER'S INTENT.
+
+## APPLICATION
+
+To apply Non-assertion, you may include one or more of the following with the work:
+
+**Official pledge**
+
+```
+EVERYONE CAN DO ANYTHING WITH THIS WORK.
+ANY USE IS AT YOUR OWN RISK, IT'S AS IS.
+```
+
+**Annotation Document (Not Recommended)**
+
+```
+[Include the full text of this Document]
+```
+
+**Reference to the pledge (Not Recommended)**
+
+```
+This work has been released under the Non-assertion.
+Full text reference -> [URL]
+```
+
+## DISTRIBUTION OF NON-ASSERTION ITSELF
+
+The Non-assertion and the Annotation Document are distributed subject to their own terms and conditions. Everyone is hereby granted the unrestricted right to exercise their rights under copyright law without any limitation, warranty, or liability. Furthermore, should this pledge become the subject of patent or trademark rights, the rights thereto are granted without restriction.
+
+Copyright 2025; HaמuL. All Rights Reserved.

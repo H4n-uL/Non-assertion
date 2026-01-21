@@ -1,17 +1,19 @@
-# ANNOTATION DOCUMENT OF NON-ASSERTION - MARKDOWN
+# ANNOTATION DOCUMENT OF NON-ASSERTION pledge PLEDGE - MARKDOWN
 
 Copyright [Year] [Copyright Holder Name]. All Rights Reserved.
 
 ## OFFICIAL PLEDGE
 
-The following two sentences, comprising seventeen words, constitute the complete and authoritative Non-assertion.
+The following two sentences, comprising seventeen words, constitute the complete and authoritative Non-assertion pledge.
 
 ```
+          Non-assertion pledge
+
 EVERYONE CAN DO ANYTHING WITH THIS WORK.
 ANY USE IS AT YOUR OWN RISK, IT'S AS IS.
 ```
 
-The Annotation Document of Non-assertion (hereinafter referred to as this Document) provides an explanation of the aforementioned pledge. Both the official pledge and this Document are legally valid and possess equal legal effect. The Annotated Document serves to supplement the official pledge by providing additional legal specificity in situations requiring detailed interpretation.
+The Annotation Document of Non-assertion pledge (hereinafter referred to as this Document) provides an explanation of the aforementioned pledge. Both the official pledge and this Document are legally valid and possess equal legal effect. The Annotated Document serves to supplement the official pledge by providing additional legal specificity in situations requiring detailed interpretation.
 
 ## DEFINITIONS
 
@@ -37,15 +39,17 @@ This work is provided 'as is' without any kind of express or implied warranty or
 
 ## VALIDITY
 
-THIS PLEDGE CAN NEVER BE DENIED NOR DECLARED VOID IN ANY RATIONAL STATE OR COURT BASED ON ANY LEGAL DOCTRINE, RULE, OR POLICY THAT PROHIBITS OR INVALIDATES THE NON-ASSERTION OF COPYRIGHT. NO CIVILISED LAW COMPELS COPYRIGHT ENFORCEMENT AGAINST THE COPYRIGHT HOLDER'S INTENT.
+THIS PLEDGE CAN NEVER BE DENIED NOR DECLARED VOID IN ANY RATIONAL STATE OR COURT BASED ON ANY LEGAL DOCTRINE, RULE, OR POLICY THAT PROHIBITS OR INVALIDATES THE NON-ASSERTION pledge OF COPYRIGHT. NO CIVILISED LAW COMPELS COPYRIGHT ENFORCEMENT AGAINST THE COPYRIGHT HOLDER'S INTENT.
 
 ## APPLICATION
 
-To apply Non-assertion, you may include one or more of the following with the work:
+To apply Non-assertion pledge, you may include one or more of the following with the work:
 
 **Official pledge**
 
 ```
+          Non-assertion pledge
+
 EVERYONE CAN DO ANYTHING WITH THIS WORK.
 ANY USE IS AT YOUR OWN RISK, IT'S AS IS.
 ```
@@ -59,12 +63,12 @@ ANY USE IS AT YOUR OWN RISK, IT'S AS IS.
 **Reference to the pledge (Not Recommended)**
 
 ```
-This work has been released under the Non-assertion.
+This work has been released under the Non-assertion pledge.
 Full text reference -> [URL]
 ```
 
-## DISTRIBUTION OF NON-ASSERTION ITSELF
+## DISTRIBUTION OF NON-ASSERTION PLEDGE ITSELF
 
-The Non-assertion and the Annotation Document are distributed subject to their own terms and conditions. Everyone is hereby granted the unrestricted right to exercise their rights under copyright law without any limitation, warranty, or liability. Furthermore, should this pledge become the subject of patent or trademark rights, the rights thereto are granted without restriction.
+The Non-assertion pledge and the Annotation Document are distributed subject to their own terms and conditions. Everyone is hereby granted the unrestricted right to exercise their rights under copyright law without any limitation, warranty, or liability. Furthermore, should this pledge become the subject of patent or trademark rights, the rights thereto are granted without restriction.
 
 Copyright 2025 HaƞuL. All Rights Reserved.

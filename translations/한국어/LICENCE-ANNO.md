@@ -71,4 +71,4 @@ Copyright [Year] [Copyright Holder Name]. All Rights Reserved.
 
 저작권 불행사 서약과 주석 문서는 그 자체의 조건 및 약관으로 배포됩니다. 모든 사람은 저작권 불행사 서약을 어떠한 제한, 보증, 책임도 없이 저작권법에 따른 권리를 무제한적으로 행사할 수 있습니다. 또한, 이 서약이 특허 또는 상표권의 주체가 된 경우 그에 대한 권리를 무제한적으로 부여받습니다.
 
-Copyright 2025 한울. All Rights Reserved.
+Copyright 2026 한울. All Rights Reserved.

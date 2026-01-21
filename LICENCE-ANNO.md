@@ -71,4 +71,4 @@ Full text reference -> [URL]
 
 The Non-assertion pledge and the Annotation Document are distributed subject to their own terms and conditions. Everyone is hereby granted the unrestricted right to exercise their rights under copyright law without any limitation, warranty, or liability. Furthermore, should this pledge become the subject of patent or trademark rights, the rights thereto are granted without restriction.
 
-Copyright 2025 HaƞuL. All Rights Reserved.
+Copyright 2026 HaƞuL. All Rights Reserved.

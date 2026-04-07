@@ -71,4 +71,4 @@ Copyright [Year] [Copyright Holder Name]. All Rights Reserved.
 
 著作権不行使誓約および注釈文書は、それ自体の条件および条項で配布されます。あらゆる人は、著作権不行使誓約をいかなる制限、保証、責任もなく、著作権法に基づく権利を無制限に行使できます。また、この誓約が特許または商標権の対象となった場合、それに対する権利を無制限に付与されます。
 
-Copyright 2026 ハンウル. All Rights Reserved.
+Copyright 2026 はんうる. All Rights Reserved.
